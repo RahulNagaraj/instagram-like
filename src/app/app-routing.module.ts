@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+
 import { HomeComponent } from './home/home.component';
 import { AllPostsComponent } from './all-posts/all-posts.component';
 import { FollowingComponent } from './following/following.component';
