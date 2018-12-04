@@ -1,4 +1,5 @@
 # InstagramLike
+This is a basic instagram clone app built using Angular 6 and Firebase.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
 
